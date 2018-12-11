@@ -17,10 +17,10 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.aruistar.cmcapp</string>
+                <string>com.tiange.USStock</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
-                <key>kind</key>
+                <key>9158</key>
                 <string>software</string>
                 <key>title</key>
                 <string>cmcapp</string>
